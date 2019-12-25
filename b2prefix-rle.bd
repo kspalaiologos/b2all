@@ -1,0 +1,24 @@
+
+[general]
+indent=true
+starting=2
+
+[header]
+content=
+
+[footer]
+content=
+
+unbal=<<EOT
+[-][Note: Brackets are unbalanced, this program will NOT compile.]
+EOT
+
+[instructions]
+plus=+$N
+minus=-$N
+left=<$N
+right=>$N
+input=,$N
+output=.$N
+lbra=[$N
+rbra=]$N
